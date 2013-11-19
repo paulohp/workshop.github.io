@@ -27,9 +27,22 @@
   border-bottom-color: #34495e !important;
   border-top-color: #34495e !important;
 }
+.demo-row div{
+  display: inline-block;
+  margin-right: 30px;
+}
+.demo-row div:last-child{
+  margin-right: 0px;
+}
+.symbol{
+  font-size: 150px;
+  display: inline-block;
+  vertical-align: bottom;
+  margin-right: 24px;
+}
 .demo-headline {
   color: #1abc9c;
-  font-size: 142px !important;
+  font-size: 102px !important;
   font-weight: 600;
   line-height: 1.1;
   margin-bottom: 50px;
