@@ -31,6 +31,12 @@
   display: inline-block;
   margin-right: 30px;
 }
+.tile-image {
+  height: 250px;
+  margin: 31px 0 27px;
+  vertical-align: bottom;
+  border-radius: 100%;
+}
 .demo-row div:last-child{
   margin-right: 0px;
 }
